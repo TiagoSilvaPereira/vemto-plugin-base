@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "id": "com.developer-name.my-plugin",
+    "name": "my-plugin",
+    "title": "My Plugin",
+    "description": "A base for Vemto plugins",
+    "image": "",
+    "main": "dist/main.js",
+    "vueComponent": "dist/my-plugin.umd.min.js"
+}
