@@ -1,9 +1,9 @@
 {
     "version": "1.0.0",
-    "id": "com.developer-name.my-plugin",
-    "name": "my-plugin",
-    "title": "My Plugin",
-    "description": "A base for Vemto plugins",
+    "id": "app.vemto.plugin-base",
+    "name": "plugin-base",
+    "title": "Plugin Base",
+    "description": "A base for creating Vemto plugins",
     "image": "",
     "main": "src/main.js",
     "vueComponent": "dist/my-plugin.umd.min.js",
