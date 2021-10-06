@@ -1,9 +1,13 @@
 <template>
     <div class="w-full">
         A simple Vemto Plugin base:
+        
+        <br/>
 
-        <input type="input" v-model="text">
-
+        <input class="input" type="input" v-model="text">
+        
+        <br/>
+        
         <button class="button-primary" @click="save">Save</button>
     </div>
 </template>
