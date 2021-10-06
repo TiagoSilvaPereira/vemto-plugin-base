@@ -9,6 +9,6 @@
     "vueComponent": "dist/my-plugin.umd.min.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/YourName/vemto-my-plugin"
+        "url": "https://github.com/TiagoSilvaPereira/vemto-plugin-base"
     }
 }
