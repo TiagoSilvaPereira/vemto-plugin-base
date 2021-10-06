@@ -12,7 +12,7 @@ module.exports = (vemto) => {
             })
         },
 
-        beforeCodeGeneration() {
+        beforeCodeGenerationStart() {
             let data = vemto.getPluginData()
 
             vemto.log.info(data.text)
