@@ -5,6 +5,10 @@
     "title": "My Plugin",
     "description": "A base for Vemto plugins",
     "image": "",
-    "main": "dist/main.js",
-    "vueComponent": "dist/my-plugin.umd.min.js"
+    "main": "src/main.js",
+    "vueComponent": "dist/my-plugin.umd.min.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YourName/vemto-my-plugin"
+    }
 }
